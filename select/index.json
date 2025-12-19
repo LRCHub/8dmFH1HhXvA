@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "まほう(MIMI Remix)",
+  "base_artist": "花譜 feat. 理芽",
+  "createdAt": "2025-12-19T17:26:56.630369Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "まほう(MIMI Remix)",
+      "artist": "花譜, 理芽",
+      "has_synced": false,
+      "path": "select/pl_01_まほう(MIMI_Remix)_花譜,_理芽.txt"
+    }
+  ]
+}
